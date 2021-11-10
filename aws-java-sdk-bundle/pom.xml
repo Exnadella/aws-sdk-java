@@ -24,7 +24,7 @@
         <artifactId>aws-java-sdk</artifactId>
         <groupId>com.amazonaws</groupId>
         <optional>false</optional>
-        <version>1.11.1019-SNAPSHOT</version>
+        <version>1.12.107</version>
     </dependency>
 </dependencies>
 
