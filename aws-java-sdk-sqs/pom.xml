@@ -19,7 +19,7 @@
         <artifactId>aws-java-sdk-core</artifactId>
         <groupId>com.amazonaws</groupId>
         <optional>false</optional>
-        <version>${awsjavasdk.version}</version>
+        <version>1.12.134</version>
     </dependency>
     <dependency>
         <artifactId>aws-java-sdk-test-utils</artifactId>
